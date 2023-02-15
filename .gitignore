@@ -1,0 +1,9 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+*.mp4
+Mis Reportes/
+my-allure-results
+allure-results
+

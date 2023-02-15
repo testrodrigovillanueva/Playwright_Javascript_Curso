@@ -1,0 +1,11 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="6.504996999979019">
+<testsuite name="Assertions.spec.js" timestamp="1676353675646" hostname="" tests="1" failures="0" skipped="0" time="5.505" errors="0">
+<testcase name="Assert dos" classname="Assertions.spec.js › Assert dos" time="5.505">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\Assertions-Assert-dos\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
