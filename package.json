@@ -6,6 +6,7 @@
   "scripts": {
     "test": "npx playwright test Assertions.spec.js",
     "test2": "npx playwright test Input1.spec.js",
+    "test3": "npx playwright test Radio.spec.js",
     "test_reportes": "npx playwright test  Reportes.spec.js  --headed  --reporter=line,allure-playwright",
     "allure_reportes":"npx allure generate allure-results --clean"
   },
