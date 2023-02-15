@@ -2,3 +2,4 @@
 2.-robot_framework
 3.-TestProject
 4.-Jira
+5.-npm install
