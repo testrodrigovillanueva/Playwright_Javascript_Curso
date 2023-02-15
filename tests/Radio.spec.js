@@ -16,7 +16,7 @@ test('test', async ({ page }) => {
   //await sleep(tiempo)
 });
 
-test.only('test2', async ({ page }) => {
+test('test2', async ({ page }) => {
     await page.goto('/');
     await page.getByText('Yes').check()
     //await sleep(tiempo)
