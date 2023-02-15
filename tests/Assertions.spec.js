@@ -33,7 +33,7 @@ test('Assert Uno', async ({ page }) => {
   
 });
 
-test.only('Assert dos', async ({ page }) => {
+test('Assert dos', async ({ page }) => {
   page.setDefaultTimeout(8000);
   const f = new FJ(page);
   await f.openURL("https://testingqarvn.com.es/combobox/")
